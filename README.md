@@ -2,7 +2,7 @@
 Repository of gaming-related tools and scripts made throughout the years.
 
 ## Overview
-This is NOT a collection of mods I have created -- that can be found on my [NexusMods account](https://www.nexusmods.com/farcry2/users/24006629?tab=user+files&BH=0).  
+This is NOT a collection of mods I have created -- that can be found on my [NexusMods page](https://www.nexusmods.com/users/24006629?tab=user+files).  
 Rather, this is just a lazy collection of game related tools I have made throughout the years regardless of their age or quality.
 
 | Game | Tool | Description |
