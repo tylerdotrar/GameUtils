@@ -2,7 +2,8 @@
 Repository of gaming-related tools and scripts made throughout the years.
 
 ## Overview
-This is NOT a collection of mods I have created -- that can be found on my [NexusMods page](https://www.nexusmods.com/users/24006629?tab=user+files) and my [Steam Community Workshop page](https://steamcommunity.com/id/DaddysPlayhouse/myworkshopfiles/?section=collections).  
+This is NOT a collection of mods I have created -- that can be found on my [NexusMods page](https://www.nexusmods.com/users/24006629?tab=user+files) and my [Steam Community Workshop page](https://steamcommunity.com/id/DaddysPlayhouse/myworkshopfiles/?section=collections).
+
 Rather, this is just a lazy collection of game related tools I have made throughout the years regardless of their age or quality.
 
 | Game | Tool | Description |
